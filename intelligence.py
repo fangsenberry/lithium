@@ -57,7 +57,7 @@ def summarise(input):
 def summarise_helper(input):
     openai.api_key = os.getenv("OPENAI_API_KEY")
 
-    start_prompt = "You are SummarizerGPT. You create summaries that keep all the information from the original text. You must keep all numbers and statistics from the original text. You will provide the summary in succint bullet points. For longer inputs, summarise the text into more bullet points. You will be given a information, and you will give me a bulleted point summary of that information."
+    start_prompt = "You are SummarizerGPT. You create summaries that keep all the information from the original text. You must keep all numbers and statistics from the original text. You will provide the summary in succint bullet points. For longer inputs, summarise the text into more bullet points. You will be given a information, and you will give me a bulleted point summary of that information. Be as specific as possible. If there are examples or names given, you should keep those names in the summary."
     
     ask_prompt = """Summarise the following text for me into a list of bulleted points.
     
