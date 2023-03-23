@@ -8,6 +8,7 @@ Some basic text intelligence functions
 import openai
 import tiktoken
 import os
+from tqdm.auto import tqdm
 
 chosen_model = "gpt-4"
 print("Using model: ", chosen_model)
@@ -31,7 +32,12 @@ def summarise(input):
     count = 0
 
     #the below alg essentially summarises in "chunks" of 3500 tokens so the context window does not exceed the model's limit
-    for sentence in sentences:
+    for sentence in tqdm(sentences):
+        if (sentence.startswith('\ufffdPublished on\ufffd:')):
+            sentence = sentence.replace('\ufffd', '')
+            total_summary += "\n\n" + sentence + "\n\n"
+            continue
+
         sentence += "." #reappend the period
         curr_corpus += sentence
         num_tokens += get_num_tokens(sentence)
