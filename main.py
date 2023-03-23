@@ -19,8 +19,9 @@ def main():
         case "1":
             transcript = aai_utils.transcribe(path)
         case "2":
-            with open(path, "r") as f:
+            with open(path, "r", encoding="utf-8", errors="replace") as f:
                 data = f.read()
+                data = data.replace("\ufffd", " ")
             summary = intelligence.summarise(data)
         case "3":
             transcript = aai_utils.transcribe(path)
