@@ -33,8 +33,8 @@ def summarise(input):
 
     #the below alg essentially summarises in "chunks" of 3500 tokens so the context window does not exceed the model's limit
     for sentence in tqdm(sentences):
-        if (sentence.startswith('\ufffdPublished on\ufffd:')):
-            sentence = sentence.replace('\ufffd', '')
+        if (sentence.startswith('%Published on%:')):
+            sentence = sentence.replace('%', '')
             total_summary += "\n\n" + sentence + "\n\n"
             continue
 
