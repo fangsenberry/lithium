@@ -68,6 +68,7 @@ def transcribe(audio_path, split_speakers=True):
         else:
             fixed = grammarfix.fix_grammar(utterance['text'])
             complete_fixed += utterance['speaker']
+            complete_fixed += "\n\n------------------------------------\n\n"
             complete_fixed += fixed
 
     print("Grammar Fixed.")
