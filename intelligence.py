@@ -42,8 +42,7 @@ def summarise(input):
         curr_corpus += sentence
         num_tokens += get_num_tokens(sentence)
 
-        if num_tokens > 3500:
-            print("count: ", count, "total number of sentence: ", len(sentences))
+        if num_tokens > 4500:
             #summarise
             part = summarise_helper(curr_corpus)
 

@@ -1,13 +1,24 @@
 import datetime
+import os
 
 import aai_utils
 import intelligence
 
 def main():
-
     mode = input("(1: Transcribe, 2: Summarise, 3: Both): ")
-    filename = input("filename? including suffix: ")
-    path = "input/" + filename
+
+    paths = os.listdir("input/")
+
+    print("--------------------")
+    for i, path in enumerate(paths):
+        if (path == ".DS_Store"): continue
+        print("path: ", path, "| num: ", i)
+    print("--------------------\n")
+
+    path_choice = input("Enter the number of the file you want to analyse: ")
+    path = "input/" + paths[int(path_choice)]
+    filename = paths[int(path_choice)].split(".")[0]
+
     #some output formatting
     curr_date = datetime.date.today().strftime("%B %d, %Y")
 

@@ -1,18 +1,21 @@
 from sapling import SaplingClient
 import os
+from tqdm.auto import tqdm
+import time
 
 '''
 Function to fix generally fix grammar in any piece of text and return the fixed text
 Code for applying the edits taken from https://sapling.ai/docs/api/applying-edits
 '''
 def fix_grammar(text, session_name="Not Set"):
+    start = time.time()
 
     API_KEY = os.getenv("SAPLING_API_KEY")
     sapling = SaplingClient(api_key=API_KEY)
     edits = sapling.edits(text, session_name)
 
     edits = sorted(edits, key=lambda e: -1 * (e['sentence_start'] + e['start']))
-    for edit in edits:
+    for edit in tqdm(edits):
         start = edit['sentence_start'] + edit['start']
         end = edit['sentence_start'] + edit['end']
         if start > len(text) or end > len(text):
@@ -20,4 +23,5 @@ def fix_grammar(text, session_name="Not Set"):
             continue
         text = text[: start] + edit['replacement'] + text[end:]
 
+    print("Time taken: ", (time.time() - start)/60, " minutes")
     return text
