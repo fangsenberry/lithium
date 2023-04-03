@@ -62,14 +62,14 @@ def transcribe(audio_path, split_speakers=True):
         if (len(utterance['text']) > 50000):
             #split the utterance into chunks of 50000 characters
             chunks = [utterance['text'][i:i+50000] for i in range(0, len(utterance), 50000)]
+            complete_fixed += "\n\n" + utterance['speaker'] + ":"
+            complete_fixed += "\n\n------------------------------------\n\n"
             for chunk in chunks:
                 fixed = grammarfix.fix_grammar(chunk)
-                complete_fixed += utterance['speaker']
-                complete_fixed += "\n\n------------------------------------\n\n"
                 complete_fixed += fixed
         else:
             fixed = grammarfix.fix_grammar(utterance['text'])
-            complete_fixed += utterance['speaker'] + ":\n\n"
+            complete_fixed += "\n\n" + utterance['speaker'] + ":"
             complete_fixed += "\n\n------------------------------------\n\n"
             complete_fixed += fixed
 
