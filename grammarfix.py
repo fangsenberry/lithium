@@ -15,7 +15,7 @@ def fix_grammar(text, session_name="Not Set"):
     edits = sapling.edits(text, session_name)
 
     edits = sorted(edits, key=lambda e: -1 * (e['sentence_start'] + e['start']))
-    for edit in tqdm(edits):
+    for edit in edits:
         start = edit['sentence_start'] + edit['start']
         end = edit['sentence_start'] + edit['end']
         if start > len(text) or end > len(text):
@@ -23,5 +23,5 @@ def fix_grammar(text, session_name="Not Set"):
             continue
         text = text[: start] + edit['replacement'] + text[end:]
 
-    print("Time taken: ", (time.time() - start)/60, " minutes")
+    # print("Time taken: ", (time.time() - start)/60, " minutes")
     return text

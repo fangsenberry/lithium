@@ -12,7 +12,7 @@ def main():
     print("--------------------")
     for i, path in enumerate(paths):
         if (path == ".DS_Store"): continue
-        print("path: ", path, "| num: ", i)
+        print("num: ", i, "| filename: ", path)
     print("--------------------\n")
 
     path_choice = input("Enter the number of the file you want to analyse: ")

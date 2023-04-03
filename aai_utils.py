@@ -4,6 +4,8 @@ import os
 
 import grammarfix
 
+from tqdm import tqdm
+
 upload_endpoint = "https://api.assemblyai.com/v2/upload"
 transcript_endpoint = "https://api.assemblyai.com/v2/transcript"
 
@@ -55,7 +57,7 @@ def transcribe(audio_path, split_speakers=True):
 
     complete_fixed = ""
     utterances = transcript['utterances']
-    for utterance in utterances:
+    for utterance in tqdm(utterances):
         #split the utterance into chunks of 50000 characters
         if (len(utterance['text']) > 50000):
             #split the utterance into chunks of 50000 characters
@@ -67,7 +69,7 @@ def transcribe(audio_path, split_speakers=True):
                 complete_fixed += fixed
         else:
             fixed = grammarfix.fix_grammar(utterance['text'])
-            complete_fixed += utterance['speaker']
+            complete_fixed += utterance['speaker'] + ":\n\n"
             complete_fixed += "\n\n------------------------------------\n\n"
             complete_fixed += fixed
 
