@@ -10,6 +10,8 @@ import tiktoken
 import os
 from tqdm.auto import tqdm
 
+import threading
+
 chosen_model = "gpt-4"
 print("Using model: ", chosen_model)
 
@@ -22,47 +24,61 @@ def get_num_tokens(input, model="text-davinci-003"):
 
 def summarise(input):
 
+    #init length of the prompt is 216 tokens, rounding up to 300. assume each summary will summarise to half its length at max. so (4096-300)/3*2 = 2530. so the max length of input we give must be 2530
+    #bump that down to 2000 ish and we modulo based on that. 1500 works better for now and works within our context length.
     total_summary = ""
+
+    input = input.replace("\n", ".")
 
     sentences = input.split(".")
 
     num_tokens = 0
     curr_corpus = ""
 
-    count = 0
+    threads = []
+    result_container = {}
 
-    #the below alg essentially summarises in "chunks" of 3500 tokens so the context window does not exceed the model's limit
-    for sentence in tqdm(sentences):
-        if (sentence.startswith('%Published on%:')):
-            sentence = sentence.replace('%', '')
-            total_summary += "\n\n" + sentence + "\n\n"
-            continue
+    for sentence in sentences:
 
-        sentence += "." #reappend the period
+        sentence += "."  # reappend the period
         curr_corpus += sentence
         num_tokens += get_num_tokens(sentence)
 
-        if num_tokens > 4500:
-            #summarise
-            part = summarise_helper(curr_corpus)
+        if num_tokens > 3500:
+            # Create a thread object to execute summarise_helper() in a separate thread
+            thread_index = len(threads)
+            threads.append(threading.Thread(target=summarise_helper, args=(curr_corpus, result_container, thread_index)))
 
-            total_summary += part
+            # Start the worker thread
+            threads[-1].start()
+
             curr_corpus = ""
             num_tokens = 0
 
-        count += 1
-
-    #account for the last iteration
+    # Account for the last iteration
     if num_tokens > 0:
-        part = summarise_helper(curr_corpus)
-        total_summary += part
+        thread_index = len(threads)
+        threads.append(threading.Thread(target=summarise_helper, args=(curr_corpus, result_container, thread_index)))
+
+        # Start the worker thread
+        threads[-1].start()
+    
+    print("Waiting for summarization threads to finish... Number of threads are: ", len(threads))
+
+    # Join all threads
+    for i, worker_thread in tqdm(enumerate(threads)):
+        worker_thread.join()
+        total_summary += result_container[i]
 
     return total_summary
-
-def summarise_helper(input):
+    
+def summarise_helper(input, result_container, index):
     openai.api_key = os.getenv("OPENAI_API_KEY")
 
-    start_prompt = "You are SummarizerGPT. You create summaries that keep all the information from the original text. You must keep all numbers and statistics from the original text. You will provide the summary in succint bullet points. For longer inputs, summarise the text into more bullet points. You will be given a information, and you will give me a bulleted point summary of that information. Be as specific as possible. If there are examples or names given, you should keep those names in the summary."
+    #TODO: change to "you are SummariserGPT?"
+    #TODO: increase the length of the output through prompt engineering
+    #The other more naive solution is to reduce the input size to 1000 tokens. although depending on how good the prompt engineering is this summarizer might be able to account for overlapping data in different texts
+    start_prompt = "You are SummarizerGPT. You create summaries that keep all the information from the original text. You must keep all numbers and statistics from the original text. You will provide the summary in succint bullet points. For longer inputs, summarise the text into more bullet points. You will be given a information, and you will give me a bulleted point summary of that information."
     
     ask_prompt = """Summarise the following text for me into a list of bulleted points.
     
@@ -80,4 +96,5 @@ def summarise_helper(input):
         ]
     )
 
-    return response.choices[0].message.content
+    result_container[index] = response.choices[0].message.content
+    # return response.choices[0].message.content
