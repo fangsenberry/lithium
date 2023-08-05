@@ -7,20 +7,31 @@ import intelligence
 def main():
     mode = input("(1: Transcribe, 2: Summarise, 3: Both): ")
 
-    paths = os.listdir("input/")
+    #check if 1 or 3 and ask if they want to take an online url
+    if mode == "1" or mode == "3":
+        url = input("Do you want to take an online url? (y/n): ")
+        if url == "y":
+            path = input("Enter the url: ")
+            filename = "Online URL"
+        else:
+            paths = os.listdir("input/")
 
-    print("--------------------")
-    for i, path in enumerate(paths):
-        if (path == ".DS_Store"): continue
-        print("num: ", i, "| filename: ", path)
-    print("--------------------\n")
+            print("--------------------")
+            for i, path in enumerate(paths):
+                if (path == ".DS_Store"): continue
+                print("num: ", i, "| filename: ", path)
+            print("--------------------\n")
 
-    path_choice = input("Enter the number of the file you want to analyse: ")
-    path = "input/" + paths[int(path_choice)]
-    filename = paths[int(path_choice)].split(".")[0]
+            path_choice = input("Enter the number of the file you want to analyse: ")
+            path = "input/" + paths[int(path_choice)]
+            filename = paths[int(path_choice)].split(".")[0]
 
     #some output formatting
     curr_date = datetime.date.today().strftime("%B %d, %Y")
+
+    #check if they want us to split speakers
+    if mode == "1" or mode == "3":
+        speaker_labels = input("Do you want to split speakers? (y/n): ")
 
     transcript = None
     summary = None
@@ -28,14 +39,14 @@ def main():
     #switch cases for all of them
     match mode:
         case "1":
-            transcript = aai_utils.transcribe(path)
+            transcript = aai_utils.transcribe(path, speaker_labels)
         case "2":
             with open(path, "r", encoding="utf-8", errors="replace") as f:
                 data = f.read()
                 data = data.replace("\ufffd", " ")
             summary = intelligence.summarise(data)
         case "3":
-            transcript = aai_utils.transcribe(path)
+            transcript = aai_utils.transcribe(path, speaker_labels)
             summary = intelligence.summarise(transcript)
 
     if transcript is not None:
