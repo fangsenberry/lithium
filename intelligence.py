@@ -10,6 +10,8 @@ import tiktoken
 import os
 from tqdm.auto import tqdm
 
+from time import sleep
+
 import threading
 
 chosen_model = "gpt-4"
@@ -75,7 +77,6 @@ def summarise(input):
 def summarise_helper(input, result_container, index):
     openai.api_key = os.getenv("OPENAI_API_KEY")
 
-    #TODO: change to "you are SummariserGPT?"
     #TODO: increase the length of the output through prompt engineering
     #The other more naive solution is to reduce the input size to 1000 tokens. although depending on how good the prompt engineering is this summarizer might be able to account for overlapping data in different texts
     start_prompt = "You are SummarizerGPT. You create summaries that keep all the information from the original text. You must keep all numbers and statistics from the original text. You will provide the summary in succint bullet points. For longer inputs, summarise the text into more bullet points. You will be given a information, and you will give me a bulleted point summary of that information."
@@ -88,13 +89,27 @@ def summarise_helper(input, result_container, index):
 
     ask_prompt = start_prompt + "\n" + ask_prompt
 
-    response = openai.ChatCompletion.create(
-        model=chosen_model,
-        messages=[
-            {"role": "system", "content": start_prompt},
-            {"role": "user", "content": ask_prompt}
-        ]
-    )
+    #introducing exponential backoff with max 10 retries
+    try_count = 1
+    while try_count <= 10:
+        try:
+            response = openai.ChatCompletion.create(
+                model=chosen_model,
+                messages=[
+                    {"role": "system", "content": start_prompt},
+                    {"role": "user", "content": ask_prompt}
+                ]
+            )
+            print(f"Summarisation Thread {index} finished successfully")
+            break
+        except Exception as e:
+            rest_time = try_count * 10
+            print(f"Error in Summarisation Thread {index}: {e}")
+            print(f"Retrying in {rest_time}...")
+            sleep(rest_time)
+            try_count += 1
+            continue
+
 
     result_container[index] = response.choices[0].message.content
     # return response.choices[0].message.content
