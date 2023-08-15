@@ -1,0 +1,749 @@
+Saturday – July 29, 2023
+Global Call
+
+Japan
+
+Admiral KODA Yoji- former Vice Chairman JSDF, and Commander
+Japan Fleet
+
+Mr. HAMADA Naoto
+
+Mr. Max YAMAMOTO - Student, Tokyo University
+
+China
+
+	Mr. GAO Fei - SAIFC
+
+	Dr. XU Tong - CBCGDF
+
+U.S.
+
+Dr. Howard Morgan - Chairman, B Capital
+
+Admiral Paul David Miller - Admiral, U.S. Navy (ret)
+
+Mr. Jerry Hultin - Chairman, Global Futures Group 
+
+Professor Joshua Mitchell - Georgetown University
+
+Dr. Alfred Wilhelm
+
+Dr. Victor Gaetan – International Correspondent, National Catholic Register
+
+Mr. Peter Bloom - Chairman- BridgingVoice
+
+Mr. John Alton - founder of Pulsatile International, and the author 	of Autonomic 
+Intelligence: Pathway to the Pulsatile Self and Sustainable 	Health
+
+Mr. Jason LaBouyer - SR21
+
+Mr. Phil Midland - SR21
+
+Singapore
+
+Professor Alex Lin – Singapore NTU
+
+Mr. KHOR Zijian - Ministry of Sustainability and the Environment, Singapore
+
+Mr. LIN Fang-Yi - Student, University of Illinois
+
+Sri Lanka
+
+Devinda Subasinghe - former Ambassador of Sri Lanka to the United States
+
+UAE
+
+Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum
+
+Russia
+
+	Dmitry Traevich - SUEK 
+
+Ireland
+
+	Louis Curran
+
+UK
+	
+Mr. Jonathan Paris - MBI & Partners UK Ltd
+
+Germany
+
+	Jesper Koll - CEO of WisdomTree Japan, Member Board of Governors, Okinawa 	Institute of Science and Technology 	(OIST)
+
+Brazil
+
+Dr. Roberto Alverez – Executive Director, Global Federation of Competitiveness 	Councils (GFCC)
+
+Cameroon
+
+	Dr. Nkem Khumbah - University of Michigan, Chairman - Africa Development Futures 	Group (ADFG), the Global Federation of Competitiveness Councils (GFCC)
+
+
+
+
+
+
+
+
+
+	Pre-call Discussion
+
+Phil
+
+Naoto is calling in from Australia right now. 
+
+Mr. Naoto Hamada
+
+I’m outdoor. It's not that cold. It's about 20 degrees Celsius right now.   It's better than Tokyo which is 40 degrees Celsius.
+
+It's about 9:40 right now. 
+
+I'm in Eastern Australia. I see a lot of crocodiles here.  My wife Nami and daughter Sarah went on to the Great Barrier to snorkel this morning.They came back with a wonderful experience, but they were shivering cold and the current was so strong.  I was reading in a car by the sea. So it was a very nice day, all day reading. And the food here is very nice. I haven't had a bad experience in Australia last 20 to 30 years, but food is much, much better these days. 
+
+Phil
+
+Alex, today, can you make some comments today on AI and article that Peter just posted on ‘guardrails’ and breaking the guardrails?  And, also the Korean published paper on room temperature superconductors?
+
+Dr. Alex Lin
+
+Yes, I will have a short comment about that.  Will also comment on what the three of us are working together on regarding the call notes, and using algorithms to help with notes.  The algorithm does a summary, generative AI summary of the whole call. It also generates questions based on the various topics we discuss.  Basically a more efficient way to review our 90 minutes together.  We'll just start publishing the summary and the questions based on generative AI along with the notes. 
+
+Phil
+
+Hey Jonathan, are you still in Tel Aviv or someplace? You look like you're at the beach. 
+
+Mr. Jonathan Paris
+
+I'm the Algarve of Portugal.
+
+Phil
+
+Mr. GAO, good evening. 
+
+Mr. GAO Fei
+
+Good morning, Phil.
+
+Phil
+
+Good morning Admiral Miller. 
+
+Admiral Paul David Miller
+
+Good morning, good afternoon and good evening. 
+
+Phil
+
+Naoto is calling in from Cannes, Australia, and Jonathan is in Portugal.  The rest of us are normal. We are very global.
+
+Jonathan
+
+The Portuguese people have something to offer. They're very happy, and when you look at their history, they've had the longest treaty with the UK - without it being broken since the 14th Century. That's pretty good.  Maybe we can learn something from them!
+
+Phil
+
+Admiral Miller and I had some good visits to Portugal when he was SACLANT.
+
+Admiral Miller
+
+Are you in the Algarve? 
+
+Jonathan
+
+Yes, we're in the Algarve at Vale do Lobo. It's 5 hours door-to-door from London.
+
+Phil
+
+Hello Jesper, good evening.  I assume you're in Japan.  Great to see you.
+
+Jerry, I guess you're in Ohio, and Nkem said he will be with you today.  
+
+Mr. Jerry Hultin
+
+Good morning.  Yes, he's coming but not here yet. 
+
+
+Phil
+
+Victor, good morning.  I look forward to seeing you this coming weekend. 
+
+Hello Tong.  Are you back in England now? 
+
+Dr. Tong XU
+
+Yes.  I'm in Cambridge. 
+
+Phil
+
+Great to see you.   Roberto, good morning.  Good evening Admiral Koda.  Also, Jason, good afternoon. 
+
+
+
+
+
+
+Discussion
+
+Phil
+
+Jesper, it's great to see you.  If you don't mind, Jesper and because of activity, especially in the Japanese Bank of Japan this week if you wouldn't mind just giving us a quick from the perspective in Tokyo, what's going on economically. 
+
+Mr. Peter Koll
+
+It's very interesting and thank you, Phil.
+
+The most important thing is that the economy is continuing to accelerate. There have been several new data points where domestic business investment is actually continuing to pick up.  There was a revision up from a previous estimate of plus 3% to plus 13% growth. And there's more and more CEOs here talking about on-shoring on bringing some factories back to Japan. 
+
+So the bottom line is that the economy, the private sector, is on a very firm footing. Business investment continues to accelerate. And as a result of that, the Bank of Japan is now beginning to take first steps to normalize its monetary policy.
+
+Now, what's very, very important is you're better off focusing on what they did not change, compared to what they changed. They did not change that they have a reserve to buy ¥12 trillion, which is about 2% of the stock market capitalization.  ¥12 trillion in ETFs. They kept that reserve right there.  The negative 0.1% policy rate. Japan still runs its anchor short term interest rates at slightly negative rates. There's no change to that. And on top of that, buying corporate bonds in the corporate bond market, as well as in the real estate investment trust market, everything is unchanged. They will continue to do that. 
+
+So the only thing that they did is they increased the cap of the 10 year bond yield. And you may remember the 10 year bond yield was capped at 0.5%, and now effectively, it's going to be capped at 1%.  But nothing on the front end of the yield curve is going to be changing. So it's a very clever way to let the market find where for longer duration bonds, there is going to be a problem. 
+
+Now, there's a lot of people who go, ‘oh my God, this means the Japanese are going to stop buying U.S.Treasuries.’ No, they won't. There is a modest increase here in the allocation to government bonds that private institutions and life insurance companies are doing. but overall, this is not going to have an impact on the asset allocation as long as it goes global. 
+
+The final point in terms of a negative impact on this enormous amount of government debt that you have, I mean, obviously the financing cost for the Treasury is going to be increasing slightly. The Ministry of Finance itself estimates that a one percentage point increase in the cost of debt would cost them about ¥4 trillion, which is just shy of 1% of GDP in terms of additional interest expense.  But that's exactly why Governor UEDA is in absolutely no hurry.
+
+And that's my final point. There was a very strong accord between the previous Governor KURODA, and the previous Prime Minister ABE. It's was a very strong accord that the Central Bank, the Treasury and the politicians would all be working together. The accord is still very much intact. So the bottom line is the domestic economy keeps on accelerating, which is good news. The normalization process at the long end of the yield curve has started, but it's going to be at least another 15 to 18 months before the short end of the interest rate structure is going to start to change. When that happens, then the impact on global markets and particularly the exchange rate is going to start to be pronounced. So for now, I don't think much of a significant impact. 
+
+Phil
+
+Thank you very much, Jesper.
+
+Louis, you wrote quite a bit about this in the Chat during last week.If you can connect it now to other areas of Asia that you're seeing. 
+
+Mr. Louis Curran
+
+Well, first of all, Jesper, thanks.  25 years in road shows with Ke-mo sah-bee - just so you know, for the group, Jesper and I have done road shows with clients where I put Jesper on a motorbike to get them, where most investment bankers would get six meetings a day. I put Jesper on a motorbike and we got eight meetings out of the day. So Jesper and I are all about productivity and it's good to hear his comments.
+
+I think I am certainly watching the very strong alignment between what's happening in Dollar-Renminbi and Dollar-Yen. There's a very strong correlation between the two, and I wouldn't be surprised if China has bought a lot of Dollars against the Yen and will be now going the other way. That's just my personal opinion. 
+
+In general terms, what's interesting to hear from Jesper is that what we're seeing in the United States and the GDP numbers that we saw earlier this week, and particularly in terms of investment spending - one of the things that is definitely a byproduct of Biden's Inflation Reduction Act and his Chips Act there's a lot of on-shoring demand bringing corporations, international corporations who want to be part of the American dream.They're having to build plants and equipment in the United States. American corporations are realizing the call to arms on the nationalist front. They're bringing back factories and stuff. What's interesting is the discussion about recession, you're starting to see GDP numbers, as I said, in the United States, which were stronger than expected, and being built on real stuff.  Investment spending is the highest that we've seen since 1981, and I think that that's quite significant. And Jesper is relating a story that relates to Japan and that Japan in terms of its economy is certainly doing well. 
+
+The Chinese are certainly - there's been a ‘call to arms’ in China. We're starting to see a number of measures. Not a very clear, single, unitary plan, but certainly a ‘call to arms.’ I think the new Chinese Central Bank governor is somebody that you do not mess with. And it's very clear that the same kind of alignment that Jesper is talking about is between government corporations and the Bank of Japan. There's certainly a certain element. 
+
+The bottom line for me is that if you look at markets in general, there's a lot of pessimism, particularly around the U.S. stock market.  If I look at my market feeds and the people that I speak with, everybody's looking for the downside or it's really cheap to hedge downside right now, but nobody's talking about the potential upside.  Citigroup has just revised its upside forecast for the S&P for this year and for next year. I've basically been saying, I think Howard and I were on a call maybe four or five months ago and were basically saying, that through all the noise and stuff, the picture was an optimistic one. The bottom line for what I take listening to Jesper, seeing what I'm seeing in China, seeing the impact of what's happening in the United States, is that there is a buoyant environment for stock markets globally. And that would be really turbocharged if the Dollar continues to move lower. 
+
+I think it’s significant to highlight - basically what we saw was a very interesting equation in Europe this week. We had quite a dovish ECB press conference. We had the ECB's Constancio, who was a highly regarded member of the ECB, basically saying that there was no need for further interest rate hikes in Europe.  The Euro-Dollar had a big reversal during the week and it's almost taken that back. 
+
+The simple point I'm making here is that despite the Europeans' best efforts to try and take some of the steam out of a strong Euro, as far as they regard it, it hasn't worked. And that indicates that if the Euro can't be reversed here with the efforts that the ECB are making, the story of buoyant stock markets, good for the growth environment and a Dollar that might continue to roll over, that will be really significant for global growth upside and stock market upside. And if that happens, I don't think people are really positioned for that. 
+So that's my commentary.  Thanks everybody. 
+
+Phil
+
+Thank you, Louis. 
+
+Howard, you're about to venture off on quite a fascinating trip, which, if you could just review it quickly with us.  But overall, the economic picture now, just before you travel, what are you seeing? Thank you. 
+
+Dr. Howard Morgan
+
+Well, I think Louis said it quite well. We’ve really come back. And if the U.S. political process does not result in Trump getting back into office, or preferably not even running, I think that the economic recovery is going to continue really strongly. 
+
+I still don't quite understand this fixation by Jerome Powell on 2% inflation. Because I lived for 40 or 50 years, we all did, with 3% inflation being the norm, and things were just fine. And by keep trying to push it down all the way to 2%, they have the possibility of pushing things down a bit.
+
+But other than that, I'm very encouraged by what we've seen in the numbers.  The stock market, unbelievable performance in the stock market, which is generally a six month leading indicator of things in the economy. And that's saying that as the primary season in the U.S. gets started next January, February, we're going to have a really good economy, a continued good economy. So all that makes me very excited. 
+
+I am excited about my trip around the world with the National Geographic and Wall Street Journal people. We are going to Kyoto, Seoul, Singapore, Ulan Bator and the Gobi Desert, Samarkand, Tallinn, Helsinki, Lapland, Reykjavik and parts of Iceland.  So it's quite a trip around the world.  I'm only adding two countries to my 101 countries that I've been to already. We'll get two more. But I'm excited to see it and I'll hopefully see a few people along the way if I can. I'm trying to figure out how to get together with Tuvshin and folks in Mongolia. We'll see if it may works out, maybe not.
+
+But I think from the economic point of view, my partner, Eduardo Saverin in Singapore, who is one of the largest shareholders in Meta, which used to be Facebook, watched his stock in that company go down from $300 to about $80 a share in the last twelve months. He was resolute and said, ‘no, this is great company, they're going to get it back together’ and here they’ve gone, if you bought Facebook at a low a year ago at $80, it's now $325 - that’s 4X - for one of the biggest companies in the world. It's just amazing how resilient the stock market has been in all of this. And even in the Bitcoin world, Coinbase has come back strongly.
+
+So a lot of those pieces of the economy, as measured by the stock market, are doing very well. But even more importantly, we still have almost no unemployment in the U.S. Some of that's a result of no immigration, so there's not enough people to take jobs, but we're definitely seeing a very strong job market for people. Anyone who wants a job in the U.S. can now have one, and that is a roaring economy. 
+
+I'll stop there.
+
+Phil
+
+Thank you very much, Howard, and we look forward to hearing from you during and after the trip. For sure. 
+
+Roberto, would you like to make some comments regarding developments in South America? 
+
+Dr. Roberto Alverez
+
+I don't have much to add in relation to South America. I think that, let's say from a Brazilian standpoint, one thing that's kind of surprising to Brazil is that the economy is moving forward against some of the expectations that were around a few months. 
+
+There's some elections coming up in Argentina and other places.  For sure, Peru continues to be a very complex place, where there were protests on the streets yesterday. And as some of you may have heard, they had six different presidents in six years.  So it's a very unstable situation here in that country.
+
+I really don't have much to add in addition to this at this point. 
+
+Phil
+
+Thanks a lot, Roberto. 
+
+Alex from Southeast Asia, one area that we're focusing on of course, is Thailand. And just this morning there is the great possibility that former Prime Minister Thaksin Shinawatra could in-fact return.
+
+If you could just put this into perspective overall from Southeast Asia and the East.  Thank you. 
+
+Dr. Alex LIN
+
+I'll basically share a few things, just not just about Thailand but also Cambodia, because I just came back from the election observation down there. 
+
+Now let's talk about Thailand.  The situation is very interesting and very dynamic.  Pita Limharoenrat being a Western educated person, he is pretty much well liked by the people. And in this previous election he has done very, very well. In fact, he has one more share than Pheu Thai, which is the Thaksin's party. So in a normal situation, Pita would likely be the Prime Minister. Unfortunately, the Senate is controlled by the former military and they are basically blocking his bid for the job.  So after twice, then what happened is that he's even now disqualified because he owns some minority share in one of the dormant media companies. 
+
+Now by right it shouldn't be a major issue unless somebody brought a whistle, because quite a number of them, they basically just transfer their share and ownership to their relatives. I think Pita may have overlooked it and didn't do that. So in this current situation he may be disqualified. And that also means that there is probably nobody in his party that is good and qualified for being a Prime Minister.  
+
+So on August 4th they're going to have another so-called vote for a new Prime Minister. It's likely that there will be someone from Pheu Thai (PTP Party), somebody from senior from the property market and he's probably pretty well respected and there's a good chance that he will be. Of course it is the second person that will be the younger daughter of Thaksin. And Thaksin has more or less, I think, orchestrated and planned this whole move because just before the election, Thaksin was meeting with the two daughters. One was also a former Prime Minister who was being ousted and this young last small youngest daughter in Singapore.They have discussions about what they are supposed to do.  These are incidents where when you start connecting all the news and stories coming out, Thaksin will be going back to Thailand. He has been in exile, self exile, for many, many years, I think more than ten years. Immediately the Justice Minister it has been mentioned that if Thaksin were to ask for the Royal Pardon within 24 hours, he may upon his serving his sentence. That means that when he can't go back, he's supposed to go to jail. But if he asks for his Royal Pardon within 24 hours, there is a window for him to ask for a pardon.  The signal is pretty clear that he will likely get the Royal Pardon. What is going to happen to the Thai overall politics is quite unpredictable right now because that the Pita Move Forward party may become an opposition while Pheu Thai can be the ruling party. So that turned the whole thing totally very different because that Pheu Thai being a party is supposed to be all about being opposition, opposing the democrat, the incumbent elites. But now they are going to be the ruling party. So the overall dynamic of the whole thing can be very different and the existing elite may not be able to manage the current situations. We will be closely watching this situation and trying to understand it. 
+
+Now, switching over to talk about Cambodia.  In the Cambodia situation, before the election usually the situation is always that everything gets sorted out before the election. And so the election will always appear to be fair and free and just.  So being an election observer usually we don't get to see anything. But for this particular situation it's very interesting because before we went the major opposition parties got themselves disqualified. All right?  So when you get disqualified, that means that you will no longer be one of the parties. So overall there's altogether originally 19 party contesting, but the left becomes 18. 
+
+Now the opposition basically campaigns for a spoil vote, which also means that they would like people to just go in and anyhow mark on the voting paper so that the spoil vote can become like voting for the opposition. This is one of the things that CPP was quite worried about. 
+
+Now that we're down there, there's a few very interesting observations that we're looking at.Number one, what is the number of spoiled votes? So we were in the counting center, we were seeing the whole observe the whole process of it and we noticed that the spoil is only less than 3%. Maybe give and take about 3%. Now that indicates that the overall voting total participation rate is 84.3%, which is pretty high compared to most of the Western civilizations, because their voting is compulsory in Asia, in Southeast Asia especially. So you talk about 84.3% of people voted as only about 3% of them are spoiled and the incumbent basically got more than 70% of the vote. 
+
+Now what that means is that there aren't a lot of people really supporting the opposition and the play is very simple. The opposition god knows that he is not able to win anything. Instead of getting two 3% it is an embarrassment. Might as well just get yourself what it's called disqualified.You look better because you look like a matter in that sense. So that is some of our observations and our conclusion.
+
+Now is this is a free and fair election?   Most of the time there's a lot of cohesion and all this thing. Now in fact, the overall security forces have increased more than five times since the last one. But we don't see a lot of security people around us. In fact, that's what it's called about 100 meters away is the nearest you will see a security guy, and that is a rule. And another interesting rule is that the day before election and the election day there are no alcohol sales, by law.  That means that no one's supposed to get drunk. You can drink at home if you have some sock power with or you drink in your own hotel but no public sales of alcohol. In fact, it's so strict that we can't even get a cocktail in the hotel lounge.  Now, that is by itself the standard in Asia. I think something is good because that you prevent unnecessary so-called riots.  That is something that we are afraid of. In fact, I think the police and the government are more afraid of the election than the people. 
+
+When you observe people, you see a very interesting phenomenon is that number one, people queue up early.The ballet center is supposed to open at 07:00 but 06:00 people really queue up. As an election observer we are still deli deli and kind of late. We are only there about 615 to do our duty to check the ballot box and the people are already there. And the most important theory is that people smile and people dress up for the election.  So they are not somebody that thinks that they don't want to go to vote. They really love to go, and they want to exercise their right. 
+
+We can see that people are feeling that pretty not afraid of the situation. I can say that they are free and pretty well aware of the situation. In fact, they love to take pictures that show that with the delivery bang and put on their fingers and then they take a picture of it to show that they have voted. 
+
+Now the overall observation - the key thing to look at the whole situation is that the media may be biased. The media may be biased, especially the non-common, that means non-local language media. And we can see that is that you can create that kind of impression about Cambodia. 
+
+The other thing I observe in Cambodia also very interesting is that HUN Sen being the strongman, as you want to call him, is the Prime Minister. He will step down in a few months' time after the election, probably sometime in late August or early September after the result is fully published. Now he's got to step down and pass on his PM-position to his son - HUN Manet HUN Manet is somebody that is trained in the West, in fact at West Point, and also educated at Harvard, etc. Now, we expect that he will be very much in Western favor, or have Western thinking. But from our interaction with him, I think he's still very Asian thinking. 
+
+The presence of China is very much seen in Cambodia.  We can see that a lot of construction is being helped by China. And in fact, one of the things that I noticed and I like is because there's a lot of Chinese restaurants there.  On one street, we just travel about 100 meters, I counted six Chinese restaurants. And those restaurants are not the type of restaurants that I think Cambodians will eat at. So you can see the Chinese presence very strongly there.  People are very friendly in that environment. I would say that this is something that somebody that they trust in that sense. 
+
+So now in transition also that we found that not just the Prime Minister is going to change, but all the old guard or majority of old guard. I think about 90% of the old guard will also step down. So Manet will have his new team and new things to do.   Now and then again is that during this period of time, we do not know what he will do. But economic development is one of the very key things on his mind. 
+
+So through the short conversation we had that he was very open, he's very much into the democratic process, and he wants to basically build the economy. It's not easy for Cambodia because at least this is typically somewhere in the center and they don't have a very huge population. But I think they all look forward to having the high-speed rail development, and eventually that will connect to all the development.
+
+So now another site observation that I have during this particular observation trip is that because the observer group comes from all over the place, they have quite a lot of intelligent groups rendered as think tanks down there. We counted about 20% of them. But that is not a major concern because these are the people who are constantly at all this event. What is interesting is that the Southeast Asian observers, which is made up of a lot of young people.  So we have ASEAN Youth Alliance down there.  And through the conversation, one of the things that keeps popping up is how can we make sense of this chaotic time?   With everything happening around the world, how can we young people make sense of what is going on? We had a conversation until late at night about development, about the world, and everybody holding some of their opinions and views. And constantly the team is basically that the young people need to have the ability to think, to figure out what is going on in this world. 
+
+I'll stop by here and get back to you, Phil.
+
+Phil
+
+Thank you. Alex.
+
+Devinda. Sri Lanka has been quite the focus just this past week of things going on. You had a visit from a Member of the Politburo of the Chinese Communist Party. You had the French President Macron, and you had the Japanese Foreign Minister all in this week.   And then President Wickremesinghe went to Delhi for his first State visit with Prime Minister Modi. 
+
+So some perspective on what is all going on. We'd appreciate it. Thank you. 
+Ambassador Devinda Subasinghe
+
+Thank you, Phil.
+
+There's a lot of connecting the dots in the Indo-Pacific that got reflected in Sri Lanka this past week, and in the past two weeks with President Wickremesinghe’s visit to Delhi and President Macron's stop in Sri Lanka on his way from the Pacific back to Paris. He was in Vanuatu, Papua New Guinea, and making a refueling stop in Colombo, which led to a bilateral meeting at the airport. And at the same time, the Japanese Foreign Minister was visiting as well. So there's a lot of crisscrossing of dignitaries and substantive discussions Hayashi visited Sri Lanka focusing on issues surrounding the Indo-Pacific, as much as the specifics of how Sri Lanka digs itself out of the debt crisis it has found itself in for the past year. 
+
+The significance of President Macron's stopover in Colombo was that France is the fourth largest creditor to the Sri Lankan government, and he also hosts the Paris Club Secretariat that hosts the discussions and negotiations between government creditors and the government, the sovereign government.  Therefore the role that France plays in this process is critical and was significantly underscored in the press releases that were issued after the Macron stopped. 
+
+The Chinese Politburo member’s visit as well was significant in terms of how China is going to play its role in the debt renegotiation process. There have been interactions between the governors of the central banks on how to proceed, because China is not part of the Paris Club Forum on debt re-negotiations, so it'll have to play an adjunct role in this process. 
+
+So much going on.  The Japanese Foreign Minister was traveling from Colombo to Africa to Ethiopia, Uganda and South Africa. There was also a significant meeting in South Africa, where the BRICS National Security Advisors meet for the first time.  So there are a lot of overlapping political, diplomatic, security and economic trends that are reverberating throughout the Indo-Pacific region. Also, the announcement yesterday that President Biden will host the Prime Minister and President of South Korea and Japan on August 18th. The Pacific Islands have been getting a lot of attention from the U.S. with Secretary Blinken and the Secretary of Defense visiting the region as well. There's such a great deal of activity going on. Where it settles and where it hits will be worth monitoring. 
+
+Thank you, Phil. 
+
+Phil
+
+Thank you, Devinda.
+
+Dmitry, last week it appeared you were mobile, you were in and out, and I was hoping to call on you last week. If you don't mind, I'll call you now.  Last week, my question to you is if you have any comments, because you do work for a major energy company in Russia so on climate change, the Cop 28 coming up, this sort of thing because of our discussion last week on climate and environmentals. 
+But overall, I think we're always interested in giving us some of your perspective on the ground in Russia, just the way you see things right now. Dmitry, please go ahead.
+
+Mr. Dmitry Traevich
+
+Dear colleagues, I would like to start with some news from Russia. 
+
+Of course you know about this Russia-Africa summit, which is a really important event for Russia, and I guess for Africa also. So it is the second Russia-Africa summit. The first one was held in 2019 in Sochi.
+
+Right now, it is really interesting to see how different media reflect and how they show these events.  If you read some, for example in the pro-Russian newspapers, you can read:  ‘when the heads of states and governments visited or attended this summit - -’  And if you read some liberal media, you can read:  ‘38 out of 54 countries haven't sent their Presidents to this event.’  So it all the same but depends on how you show this. But of course, we would like to understand how it is in reality without any speculations, without any of these things.
+
+Of course it is an important event for Russia.  Russia would like to show that it is not isolated, that Russia has some international ties, and it is a really good chance to show that. I guess that, of course, if we compare the first summit with this one, with the second one, of course we can see that fewer Heads of State are at this event.  But anyway, I would say that we cannot say that it is Putin's failure or something.  It looks more like Putin's or Russia's success, in my opinion, because almost half of the 48 delegations from 48 countries out of the 54 African countries. So it means that almost all African countries participated in this event.
+
+There were several important outcomes from this summit.  There is cooperation on security, of course. We also have to say that Moscow writes off debts of more than $23 billion for several African countries. Also a really important thing is around this grain deal, because you know that Russia suspended this grain initiative after an attack on the Crimean bridge.  Russia will provide free deliveries of 25,000 to 50,000 tons of grain to six countries. I guess, an important step to show that Russia would cooperate with some African countries. And that, of course Russia would like to show that the Western media would like to show Russia as a really angry state, which just suspended this grain initiative. And after that, a lot of African countries would have problems with food security. And now Russia showed that Russia would solve this problem and that Russia suspended this initiative only to stop these military activities around this area. 
+
+Russia also signed Memorandums of Understanding with the African Development Organization and Economic Community of Central African States. And a really important thing is also cooperation in the education sphere because a lot of African students are enrolled in Russian universities and they study here in Russia.   
+
+Other than talking about the summit, I guess there are all outcomes and a really interesting and really important event that Defense Minister Shoigu met with the North Korean leader also several days ago, and they decided to make better or to increase their military cooperation. And also it is the second really important step to show to the whole world that Russia has some international cooperation. 
+
+And of course, we understand why only some heads of State visited this summit because right now, for African countries or other countries, it's really difficult to take some side. And to be honest, I think that some states, they cannot understand what side to take. Which side to take because on the one hand, we see that Russia is against the whole world.  On the other hand, we can see that the counter-offensive probably failed. Of course, right now they started the second wave and we will see the results, but the first wave wasn't successful anyway.  Anyway, all countries would like to take the side of who won this war, and we don't know who will be the winner in this situation. That's why some of these states decided not to show anything, and not to take any sides. 
+
+That’s all from my side.  Thank you so much. 
+
+Phil
+
+Thank you, Dmitry.
+
+Nkem, I see that you're with Jerry today in Ohio. Great to see you.  
+
+Following on with what Dmitry just presented, and noting that just this morning Bloomberg published an interesting map that shows more of a straight line of conflict right along the equator, from Guinea to Sudan which you've basically been telling us about for months.  And of course, this is a very serious situation as noted in Niger this week. 
+
+Nkem, if you wouldn't mind to make some comments. Thank you. 
+
+Dr. Nkem Khumbah
+
+Alright, thank you. Yes, I'm visiting Ohio.  I stopped by to say hello Jerry.  I make an effort to visit all our colleagues on this call whenever I'm in their city.   It’s great to have a face-to-face meeting with our friends.  So I'm glad to meet Jerry again this morning. 
+
+Yes, the coup d’etat in Niger this week was expected, and at least for some of us from Africa who watch Africa, it wasn't a surprise.  And, it's very likely that many more will follow, if not immediately in the near future.  What is in common with these countries that are having coup d’etats is that they are all former French colonies. 
+
+When I first joined this group, I made two presentations which mentioned France in Africa and the effect of France in Africa.  I mentioned that the Asian North is looking wealthier and more advanced and everything, and the darker South is looking less advanced. It's not a matter of capabilities or innate human differences.  It is purposeful global policy by those who rule the globe. In Africa, they see that as France being the main culprit on that underdevelopment.  France supposedly left these countries decolonized in the 60s. 
+But if I give you a little anecdote, in the last eight years I've worked a lot in these countries, in the university systems and certain institutions. And when you go there, there's something that the French call ‘agents,’ French agents under their Ministry of Foreign Affairs, ‘ministers of cooperation all over these countries.’  The countries have no right of refusal.  
+
+	(technical audio issue - - completed later)
+
+Phil
+
+Will go back to and resume the comments by Nkem later when the audio issue is corrected.
+
+Let me shift Mr. GAO.  
+
+Mr. GAO, clearly there's a lot of activity going on with international relationships in China right now. President Xi is in Chengdu for the University Games, welcoming several national leaders as well, especially the President of Indonesia. 
+
+So Mr. Gao, if you could offer us a perspective overall of the international view. And one other point is that President Macron, when he was in the Pacific, talked about a ‘new imperialism.’  I thought it was an interesting term coming from the French. 
+
+Mr. Gao, if you could please continue
+
+Mr. GAO Fei
+
+As Phil mentioned. I think in the email you send the references that try to pick up all these pieces that.  I really appreciate that, and see all the international activities all over the world.
+
+As you said, just two days ago in Chengdu, Sichuan Province, President Xi hosted a very good dinner with the President of Indonesia, the President of Ghana, the President of Burundi, and the Prime Minister of Georgia. So I think this is the Global South countries and so we can take it as a comprehensive view. 
+
+And of course, I think many people were disappointed yesterday that an official of the U.S. said that the United States will not invite the Executive Chief of Hong Kong, Mr.LI Ka-chiu (John) to attend the APEC Summit this November in San Francisco. We know that this decision maybe made under pressure from the U.S. Congress. That's because the Secretary of Commerce of United States planned to invite the Executive Chief of Hong Kong to attend the summit, but nowadays the United States has declared that they will not invite the Executive Chief.  So we think that we feel quite disappointed about that because we think that the APEC is an international forum, of course.  So we should follow the tradition. 
+
+And another issue that I would want to talk about, is that maybe it is very explosive news in science and technologies, that just this week a team from South Korea said they have successfully tested new superconductor material. We think that if it could be if it's real, and now I believe that the labs all over the world are testing whether it is real or fake. But if it is real, I think it could be a very revolutionary industrial revolution in the future, maybe as important as AI.  Because if we can use superconductor in normal temperature, that means at least it will push very fast on the controlled nuclear fusion and it will have a very important future in the new energy. We think this could be very important in the future. And we are proud of our neighbor's team.   After many years of testing and maybe some luck, they can achieve that.
+
+So I will stop here. Thank you. 
+
+Phil
+
+Thank you, Mr. Gao.
+
+Nkem, if we could ask you now to finish your comments, and then we'll go to Jonathan Paris to talk about the Middle East. 
+
+Nkem, if you could finish up, please.  Thank you. 
+
+Dr. Nkem Khumbah
+
+So I was mentioning that in French speaking Africa they are extremely frustrated with the role that France played in their countries. I was mentioning that there's something called ‘agents’ that the French use. I went to meetings myself with vice chancellors, presidents of universities, with ministers, where we go to meetings, just regular conversations and it’s like this - somebody just walks in and sits there to listen. It's a French guy who is uninvited. You can't tell him not to sit here, you're not invited. You can't tell him you don't belong here. He just sits there and listens to what you are saying, goes back, gives notes back to his higher ups.  And before you know it, whatever is decided in that meeting, at whatever level academic policy, otherwise it's under French control. Francophone Africans know this very well. 
+
+The war that occurred in Cóte d’Ivoire in the 2000s that really almost destroyed the country over a ten-year period.  It started because the then elected Cóte d’Ivoire, President Laurent Gbagbo- he wanted to send away the French ‘agents.’ The French said ‘you can't send these agents away these agents, they are part of our post-colonial pact with you.’  Because of that, they destabilized the whole of Cóte d’Ivoire. 
+
+Now, if you travel to West Africa and speak to any minister who's not trying to be nice the way they say it, the level of frustration is too high. There are instances where ordinary people consider just being hostile to French tourists and French visitors. That's how much frustration there is. I mentioned how 60 or 70 years now after independence, these French African countries, they don't have their own central banks. They cannot control their monetary policy. They don't have any control over their currency. It was tied to the French Franc and now to the Euro by policy from France imposed upon them. Their reserves are all kept in the French treasury. They put over $500 billion in the French treasury annually - and they cannot pull from it, unless they loan from it at market rate, their own money. And these countries do not have, they barely have any room, any fiscal space to fund their own development, their own initiatives.So they have to resort back to the World Bank and national systems for lending and bilateral instruments for money. 
+
+That's why you see them go to China for loans. China is supporting them. They go there. Japan, Korea, Russia.  They go there. And then when they go back to the West again. So there's plenty of frustration in this country. So the coup d’etat for us are not unexpected.  Some do coup d’etat. some want French Africa to send away the French.  
+
+In Mali when they had their coup d’etat recently, in the West, as Dmitry was suggesting, the media portrayed it differently through different lenses. He was like the hero after Mandela on the continent, at least in those countries, he was like the hero. The first thing he did was send back the French ambassador. The second thing is to send back to all French NGOs in the country. The third thing was to ban French media in the country, and then finally send away French troops. 
+
+When we hear about instability in the Sahel in the West Africa region, these are mostly the French speaking countries and the international military presence there to handle the Sahel problem, the Sahel security problems, they are mostly French military. And these countries actually tend to accuse the French of not coming to stop the problem, but to come and ferment the problem. 
+
+Niger is the source of what was called during the Iraq war, a yellow cake.  Much of the uranium that supports the French by such a European and nuclear industry comes from France. So this is what the sentiment is of the continent. 
+
+The coup d’etat in Chad is a little bit different because the guy who was the President, Idriss Dėby, passed away in battle and on suspicion of French activity. I mean, I'm telling you what is popping up there.There was a constitution in place. They have a constitution in place for those who replaces the president in case he's not there - the speaker of the Parliament.  As soon as this President passed away on the battlefield, French President Macron flew into the country the next day and they altered the constitution to install his son as the President. That's the kind of frustration that people have. 
+
+I'm from Cameroon.  I visit Cameroon often.  You hear the frustration on how French activities are in that space. So there's a new generation now coming up, and unlike those who were there at the time of independence who are now 70s, 80s, 90s and passing on. There's a newer generation disconnected from the colonial period, and from the colonial days who are more anxious, who are more prone to say they cannot keep doing what their parents did, and they have to take things into their hands. 
+
+So these coup d’etat don't come as a surprise. And the first thing that they will do, you will notice, is take an anti-French approach. Almost everything that they do, and when they do, that, the only recourse the Western bloc is kind of complemented to each other as states. The main recourse that they will have is to the East, and to Russia. And so Russia offers an outlet.  During this Russia-Africa summit that Dmitry mentioned, yes, there were about 17 to 20 Heads of State. African countries face substantive pressure from the West not to go. I mean, real pressure, pressure of sanctions, by whatever means they want to do it. But the ones who went most were those from French speaking Africa, not the ones from English. like Ghana and Kenya who were more by language.  In the English world, English Africa is more aligned with the West, with Western and English dominated countries. But the French speaking African countries, they all went there. This is their outlet. They are begging the Russians to come back, and surprise Wagner's group, Prigozhin, the leader, he was at a summit on the sidelines, hosting a few of these French-speaking African countries.   In Central Africa, where there's also conflict, and where the Russians are most active with the Wagner group, there is still a backlash towards the French. You will be notice of all this activity, you barely see any in an English speaking African country. You will see them all in French speaking countries. 
+
+I've attended many African Union meetings of Heads of State administrators.And you find the English-speaking ministers frustrated with the French-speaking ministers, that what they are doing with the French and letting them do what they do undercut the continent. The only way for the French to get their raw material supply, as they do, is for nothing. If I may say, we may have a few French colleagues here and this is not about an individual. There's a saying in Africa that if you take away the French speaking Africa, then France will go like Greek history.  Their language, their culture will not exist. Africa is a hotbed. That's where France sustains itself. And so there's a push-back on the French substantively. You will see more and more Russian presence in Africa. If the French and the West don't give Africa a better bargain, don't respond to African own aspirations, then this trend would be much more substantive and more aggravated as this population demographics, as the continent gets younger and younger.
+
+I can give you lots of details of anecdotes of my own personal experience. Five years ago, I was here in the U.S., we have a national science foundation that sponsors science in the U.S. Many African countries have such science granting agencies to develop their own scientific systems. I go to Cameroon and the Minister wants to work with me to establish one in the country.We're having a meeting on how to go about establishing a science granting agency. At the meeting, who shows up? A French agent. Now, within three months, the French Embassy writes to the Minister and says, "We are your development partners. We can support you in this effort to establish a French science granting agency.” That's the letter. I saw it. “We can support you. We'll give you a grant of $300,000 to do studies, to develop how to develop this.”  It's been five years. They haven't done it. And that's the model. Take ideas, kill them, take ideas, position yourself as their partners to help them develop what they want to do. Take it, share it. It never shows up. After ten years, nothing happens. 
+
+These countries are frustrated, and China and Russia, the Eastern Bloc, those who have some contrasting, some contrast with the West, they are offering lots of alternatives. Dmitry mentioned $23 billion in loan forgiveness to Africa. Africans have been asking for this for a long time. They are strangled in their fiscal space. I cannot do anything. Hardly any African counties do anything without taking out a loan from outside, zero fiscal space, or even from their own parliamentary budget allocations.  So the West doesn't quite see it. But on the continent, the energy is so negative towards the West, so negative towards France especially.  If colleagues are here, when Rwanda had the genocide and Kagame came to power, the first thing he did was send away the French and switched the national language from French to English. They sometimes attribute that switch from French from being aligned to French to English as part of the explanation for his success as a country like Rwanda.  Sometimes they give that explanation. Gabon has tried that. They've tried to switch language as a way of protesting and saying, look, this is hampering us backwards. 
+
+So Africa is experiencing what I would dare suggest, a second coming by a younger generation. Now, in terms of business practices, industry, science, technology, what we discuss mostly on this, you don't see it again because these countries know they want to do it, but systemically, they are hampered from doing that. I can give you many other examples. So, yes, Cameroon is ripe about that.  The President of Cameroon is 90 years old. The county doesn't want him at all. He's sustained by his mentors abroad, and in the country. Discussions of the coup d’etat rise. That's just hanging on for the guy to pass away.  He's 90 years old. Sooner or later this time it will come up and the transition has to be military. They cannot keep going on with the same model of having the French be the dominant player in their country. So it's a broad sentiment, and even though you will see in public, some countries would want - the English countries, English speaking countries would want to suggest that they're not with it within the continent. There's broad support for this.  
+
+And the first thing is to pivot to the East, because that's where they don't have a history of colonial control. The East might end up being worse, but they don't have that history yet. So that's the only outlet that they have. After 70 years of working with, you have barely anything to show off, no infrastructure. The East is the only place where they know, and Russia and China understand it.  Britain is where you see many African countries align completely. So the forum in Russia, for Russia, I think it was a huge success.  For African countries, it's still a success in the sense that they are voting with their feet and telling the West, we can at least once in a while make our own choices of who we meet and who we don't meet. He cannot control us like that. So that's part of Africa's reality. 
+
+The West is thinking of intervening in Niger because Niger has specific stakes in terms of its raw material for the nuclear industry.That one is especially troubling to France, and to the U.S. Will they intervene? How would they do that? It's not very clear, but the wind, at least, is blowing. Africa is kind of turning completely.  So these coup d’etat are not just out of mismanagement or people who know hot headed military stars. It's a deep seated frustration across society.
+
+Even with me personally.  I'm from Cameroon and I see this all the time. I just mentioned the Minister of Science who wants to do a science planting agency. When we meet, you see what happens out of it.  I feel that myself.  So the West has to rethink how it treats the Global South with this change from uni-polarity to bipolar to multi-polarity. The same model cannot function continuously unless there's turmoil before stability comes in.  But African countries are simply voting with their feet. It's their only recourse.  The political class is pretty much in the hands of the political system, which is tied to their old colonial system. So the young military guys are the only ones who think that they can do something to save the continent. That is their recourse. 
+
+Around the BRICS meeting, and the BRICS summit coming up soon in South Africa, you will see many more of these show up. The forecast for West Africa.  They are neighbors, they are director neighbors. And you'll see how over the next few years, they'll be banned together as part of the anti-French, anti-colonial ban on the continent. That's the sentiment. I was going to mention this to our colleagues here. I am also working on a forum with the South African Council on Scientific and Industrial Research, CSIR.  They have a defense team there, the most advanced R&D defense team on the continent, about doing something in the defense industry. We've talked with many people in the defense sector. They are on board with all these developments in West Africa. They think it's about time that they find a way to express themselves better.  So they are deeply seated in frustration.  The Heads of State or the leadership that the Western media will tend to portray as good governance, good governors, as good governments, their people don't like them. And they always quote Gandhi, ‘if they like you, then you're not good for your people.’ This is a common comment across. 
+
+So let's hang on and see how it goes after that. Then they would look at how this translates into their own general economic and industrial sphere.  How they translate that into material gains in their countries. 
+
+How they will do that is not very clear.  How long will it take?  It is not very clear. But the continent is definitely at war with its former colonial masters who have played a substantive role in their post-colonial countries.
+
+I'll leave it at that.
+
+Phil
+
+Thank you, Nkem.  Just to remind everybody, Nkem is going to be on his way to Nairobi at the end of August to take a position at the The African Academy of Sciences (aasciences.africa). We look forward to hearing from when he's on the ground there in the coming future.
+
+Jonathan Paris, you were just involved in a gaming exercise in Israel, and I'm sure many of the issues that we've discussed today came into play there. 
+
+So, Jonathan, today is coming to us from Portugal, if you could give us a short update on that. Thank you. 
+
+Mr. Jonathan Paris
+
+Thank you.
+
+As you can see, I like to see some blue sky. Israel was 38 degrees. That's about 90 something. And here it's pleasant, 73, 75 degrees Fahrenheit. But the problem with London is it's just so dark and cloudy, you just never see a blue sky.  So I like to get to where there's blue sky. 
+
+Listen, I wanted to give you seven takeaways from a war game simulation that I attended. It was organized by folks in Washington and at a think tank in Israel. There were eight countries or groups: the U.S., Israel, Iran, Europe, China, Russia, the so-called ‘resistance States’ - that’s Syria, Hezbollah, Hamas, and the Gulf states. 
+
+I think rather than going through the simulation, let me just give you seven takeaways, to keep it short. 
+There's a scenario in three stages.  Day one, day three, day five. 
+
+And the seven takeaways:
+
+Number one, for Iran not to have a bomb did not prevent them from being attacked. In other words, you could argue that if Iran had a bomb, they would not have been attacked by, in this case, Israel, the United States. 
+
+Number two, the trigger of this war game was Iran decided to go to 90% enrichment of their fissionable material, which is a de facto not stated, but a de facto red line for the U.S. given previous statements by President Biden's spokesman.  That de facto red line drew the United States in the form of incremental escalations, even though neither the U.S. nor did Iran want the U.S. to get involved kinetically. 
+
+Number three, there was not enough discussion before this crisis between the U.S. and Israel about strategic objectives in the event of such crisis. 
+
+Number four, the Ukraine War had very little impact on this regional war in the Middle East.  It's like it didn't exist. Russia has now supported the ceasefire, and wants to help Iran calm things down at the earliest time.  On the other hand, Russia conveniently found that this Middle East war was a distraction from the Ukraine War. 
+
+Number five, everyone felt they won. 
+
+Number six, when the scenario went kinetic, it was interesting to see that those regional countries - I'm thinking of Saudi Arabia and the UAE, who had been hedging between Russia, China on the one hand, and U.S. on the other hand, it clearly went with the U.S.  When it comes to a military scenario, the U.S. is the most important superpower in the region. On the other hand, had the U.S. decided not to act as they did, it would be clear that this new World Order led by China would have prevailed, certainly in the Middle East, just because of the loss of US.Credibility. 
+
+And I would say finally, in light of having seen the recent Oppenheimer movie - my ‘Oppenheimer moment’ is this:  I did read the book twelve years ago, is that there was a small bit in a scenario where three bombs or enough fissionable material to make three bombs had been diverted from Fordow nuclear installations, which were degraded, and those end were three of the scenario of missing. And the Supreme Leader of Iran decided to issue a Fatwa after his country was attacked to go for the bomb as soon as possible. 
+
+So you have to think about just the consequences, and the scenario proves the consequences of just how dangerous the Middle East can become in a very short while, even though we are currently much more engaged in the Ukraine war and much more engaged in Asia, and in Taiwan, China. 
+
+Thank you.
+
+Phil
+
+Thank you. Jonathan, great to meet you and bring up the Oppenheimer moment. And Peter, if you don't mind, I'm going to ask you because Mr. Gao did bring up the context in the news of the past week about the ‘semiconductor revolution.’  So Peter, if you could offer some comments on that, please.
+
+Thank you, 
+
+Mr. Peter Bloom
+
+I'll get to the semiconductors in a second.
+
+I just have one suggestion for all the participants, Phil, which is I find the Signal Chat Group to be so rich, but a little overwhelming for me. I was hoping that maybe if people feel that something I'm posting is of particular importance, you could flag it because I'm trying to keep up and it's so good, but sometimes I'm not sure what I'm supposed to pay attention to, and what might be of second order importance?  If you could feel like something's really critical, that would be great. 
+
+I'll get to semiconductors in a second, Phil, but I want to talk - first of all, I'm really glad that the focus on AI has moved away. That's great because I'm learning so much from everyone. I'm going to limit my comments on AI going forward to whatever I think is most important strategically, super fast, and then always end with something positive. 
+
+So the first is for those of you who didn't see the White House convened a meeting of seven AI leaders to put together a framework sort of guardrails for AI.  They came up with seven proposals, you can read about them.  I think that was kind of theater for the most part. And the reason I think that as an example, one of the commitments they made was to limit the spread of disinformation. And I posted in the Signal chat this morning a New York Times article about an important research report where researchers were able to basically trick the large language models into creating disinformation that the AI companies have said, ‘oh, we will never allow that.’  
+
+So, very specifically, like, how do I build a bomb?  It turns out the large language models will prevent you from getting an answer to that. And then by adding a suffix, a very specific set of appendages to your prompt, it will tell you how to build a bomb.  So it's now a nuclear arms race between the large language model providers who are trying to sort of figure out a way not to allow people to misuse these tools, and a very vibrant community of people who are absolutely committed to misusing these tools. And I think the ultimate conclusion, which we've talked about before, is 2024.  I think we will see just a staggering amount of disinformation being created despite the commitment that they made at the White House to prevent it. 
+
+I just want to end it with a positive, and then we'll get to semiconductors.
+
+The positive is something that Howard brought up about a month ago, and that's the brain-computer interface.  I think where we're seeing some really dramatic improvements in the use of AI for good is around the idea of connecting computers to the human brain, primarily for people who are suffering from profound handicaps, paralysis, or neuro-degenerative diseases. The level of progress in that area is really quite amazing. So pay attention to BCI going forward because I think you'll feel good about the use of AI for BCI brain-computer interface.
+
+Switching over to semiconductors and all the Signal chat around this.  I am not a believer in room temperature, the use of superconducting technology with room temperature and room pressure.  So let's start with I don't believe it.I just don't think physics supports it. But the real issue and the reason China is investing so heavily in this is that we've reached the limit of physics for semiconductors. I mean, there are semiconductor chips now that have 4 billion transistors on them. So as a result, the reality of it is that we need to come up with a transformative breakthrough in physics to allow  the semiconductor - Gordon Moore's famous Moore Law curve to continue - will require superconducting.  
+
+Now, the reality of today is you can get super-conduction at extraordinarily high pressures and extraordinarily low temperatures. So the Holy Grail is room temperature semiconductor- superconducting. And I just need to go on record that I'm still a believer in physics.  So, I am skeptical. 
+
+But with that, I will go back on mute.Thank you. 
+
+Dr. Howard Morgan
+
+If I could make a quick comment.
+
+The limits on semiconductors have been the waves of light that are used to etch the semiconductors, which is now sort of 3 nanometers from this Dutch company. I just got pitched a proposal this week for something that would be a breakthrough that would let us go down to 1 nanometer.  So it's a different way than the Dutch are using.  So, I'm not sure, Peter, that I completely agree that we're done yet with the physics.
+
+Mr. Peter Bloom
+
+By the way, Howard is right. I'm sorry, when I talk about physics, Howard's 100% right. 
+
+There's still room to go. Howard, I can't disagree with you. I just think that it will still require a step-function transformation, maybe it'll come around etching. And that sounds like it's going to have potential, but ultimately we're going to have to get to some form of super-conduction, I think, to continue the transformation. 
+
+We'll see what happens, but I'm bearish on the sort of chat that went through on superconducting. That was really what I wanted to say.
+
+
+
+Phil
+
+So, Alex, I'm going to ask you to sort of help wrap up some of this. 
+
+But let me just make a comment.My observation of the Oppenheimer movie, which I saw this week.  I think they missed a very good opportunity to highlight a very key woman that was involved. As Mr. Gao may know historically, this is Professor WU Jian Xiong ( 吳健雄), the very, very famous female physicist at Columbia University - Chinese - who was involved in the separation of 238 and 235. She was part of the Manhattan Project. 
+
+So I just think, once again, we don't seem to take account of the East.  So this publication or pre-publication from South Korea, I find it very interesting just in that context. 
+
+Alex, if you can continue. 
+
+Peter
+
+Can I say one thing about that? 
+
+Phil
+
+Sure. By the way, I met WU Jian Xiong about 30 years ago.
+
+Mr. Peter Bloom
+
+I'm just going to give everyone a super quick backstory on the movie.  Then, I'm going to follow up specifically on Phil's question with the executive producer of the movie. 
+
+So one of my closest friends several years ago, he's a nuclear physicist from MIT, made a lot of money and so he bought the rights to American Prometheus several years ago and he said, I'm going to make a movie about Oppenheimer.  And I was like, yeah, right, yeah, I mean, you're a nuclear physicist. Good luck.  So he is the executive producer of the movie, and one day he called me and said, "I got Christopher Nolan.” And then he started mentioning “I got Matt Damon.”  I'm like, holy cow, he might pull it off. 
+
+So Phil, I'm committing to you that I'm going to speak to him this week about why there was such a grave omission in the movie. I will get back to you. But we do have a source to figure out what happened there. 
+
+Phil
+
+Yeah, and there's quite an interesting chain there of very key scientists.
+
+So Max, Yamamoto, I think you just made an amazing comment in the Chat that the movie is not even showing in Japan. Max, if you'd like to comment on that a bit. 
+Mr. Max YAMAMOTO
+
+Yes.  The movie Oppenheimer is not in Japan yet.  I'm not sure about the fact, but I think I saw the call that the movie association is doing the meeting, and it's under consideration.  But as I wrote in Chat, the same goes for Barbie.  Well, Barbie has already decided.  Barbie will be in the movie theater on August 11th.  But for Oppenheimer, we are not sure when we can watch it in the movie theater. 
+
+But here's one thing that I should tell you about the context - usually like foreign movies, American movies, let's say - The Dark Knight is in U.S. like in June or something, sometimes the Japan shows in movie theater like six months later or something.  So it could be that case, or I don't know, maybe it's in consideration because of the film, the contents of the film. 
+
+Thank you 
+
+Phil
+
+Admiral Koda, would you mind commenting on that, or on anything from today. 
+
+Admiral Yoji KODA
+
+You know that movie the I think getting some stronger attraction among many Japanese.  So kind of the outline stories were on the media.  So of course, as Yamamoto-san also said, it may take several more months for translation, but I do want to watch the movie, but I need to wait. 
+
+And just a quick situation other than the economy and semiconductors, the largest concern is the 70 years anniversary of the armistice or ceasefire of the Korean War. And the North Koreans called that one the V-U.S. Day, and they had a pretty big military parade.  Surprisingly Russia sent The Defense Minister Shoigu, and also China sent the Parliamentary Vice Chairman of the Chinese Congress.  The assessment in Japan, is that what it means?  What's Russia's position, and what's China's position toward North Korea in developing long range missiles and nuclear arms?  So that is becoming kind of not very hot, but wider spreading the Japanese concern about our communities. That is one thing. 
+
+And the second thing is the firing of the former Chinese and Foreign Minister QIN Gang.  He had been out of sight for several weeks and then suddenly, it was not the government announcement, if my understanding is correct, just some media reported his replacement by the former Foreign Minister WANG Yi.  Of course there were many rumors, but still we do not know, and there are so many speculations. 
+
+Our key concern is not why he was replaced.  No, that is not our major concern.  Of course, in a political mechanism like China or authoritarian totalitarian mechanism like China, Russia, that could happen at any time.  So we do not care about that. Our concern is what could be the impact of his replacement or firing over the Sino-US.S. relationship, or Sino-Japanese relationship?  Especially since the Sino-Japanese relationship that has been the worst case in last the 70 years or so.  So, what could be the impact of the reshuffling of the Chinese Foreign Minister?  Of course, the Japanese are very familiar with Mr. WANG Yi, but still we have pretty strong concerns about that. 
+
+And one last thing is the North Korean military parade, there are two new major pieces of equipment. One was an unmanned aerial vehicle.  This is a kind of comedy-like irony. The North Koreans condemn the United States very badly. But their unmanned aircraft vehicle is just the twin brothers of the U.S. Global Hawk and the Fire Scout. It's funny and interesting. Of course, there were several precedents.  Like two years ago, the copy of the M-1 tank just showed up in their parade.  So the North Koreans don't like Americans. Hatred is very hard, but they are also copying the Americans. This is perhaps kind of ironic, the reality of the North Koreans. 
+
+The second thing is we have to be more serious. For the first time in the parade, there were what they called nuclear-armed torpedoes.  I think it was announced last year. But their idea is to launch a pretty large midget submarine type, large in size.The underwater vehicles are manned, armed with the nuclear warhead on, launched in the Sea of Japan and towards major Japanese coastal cities facing Sea of Japan or South Korea, and detonate the nuclear warhead somewhere around that, and caused a big tsunami.  Perhaps what they say is larger than the worst tsunami in Japan several years ago, one decade ago, ten years ago.  But of course there are still many unknowns, but they just started showing their secret weapons at their parade.  So we are getting some new information or intelligence.  But that's still a pretty long way to go to get the in-depth analysis.
+
+So other than what we have discussed today, there are so many things that are happening in this region too. 
+
+Thanks. 
+
+Phil
+
+Thank you very much. 
+
+Alex, if you could help us sum it up, just like Admiral Koda just said, there are so many things going on. I think most of us on this call would appreciate, if anything this call will help us keep some perspective on everything going.
+
+So Alex, please. 
+
+Dr. Alex LIN
+
+Yes, thanks. Thank you, Phil. 
+
+I think this call is very important. I think most of you agreed and most of you would not want to miss the call.  Because I think, in essence, we share a lot of things that we observe from all possible angles, and it helps us to make all the unknown-unknown become some form of known-unknown that we can go forward to help discover and eventually make them into an unknown. 
+
+I think the ending is something that's very important.  Phil, Fang Yi, and I are working on some of the summaries that we're going to produce from the Call Notes, and we are still picking them. We will share them once we are more ready with that. 
+
+So for today, what we have discussed, I think we start off with Jesper talking about the Japanese as well as overall finance. This will help us understand the BoJ's current actions and what the possible ramifications are. I think it's a very good direction for us to observe, especially people in the financial sector. That is something that we need to be fully aware of, and those people especially borrow the Japanese Yen, that is something that they have to be very careful about. 
+
+I think a few of them can combine to look at the Africa situation and Niger situation, and that more or less gravitates towards energy.  Energy is also something that Mr.Gao mentioned is something very significant and as important as AI.  I think we all see that because without energy there will be no economic progress. I think that is something that everybody has to be very mindful of.  Although AI is on our radar, but I think energy is something that we cannot just drop off, especially with the current consumption. Energy consumption is still largely fossil-based. We had a lot of discussions in the Signal Chat as well about that. 
+
+Now, this Roberto also mentioned quite importantly about the carbon exchange and the new development, especially the business opportunity down there. I think those areas are something that we kind of put on the ‘back burner’ for a while. I think Zijian will probably be able to re-look at it, and eventually we will have to revisit this one. That is something that is quite important.
+
+Now, I just want to highlight something I mentioned earlier.  I think we are largely dependent on the media that we consume, including the movie - Oppenheimer.  I mean we mentioned behind as a movie, I think as far as the media is concerned, it's not entirely 100% accurate. All right, sometimes we may be misjudged to a large extent. I think it's something that we all, especially collectively, are able to kind of cancel off each other's so-called bias and help us see things a lot easier.
+
+Turning now and looking at the super-conductor.  I think everybody gets excited about super-conductors, and it is something that really posts very good potential, especially for energy generation.  But something that's very interesting that I don't think anybody really looked deep into this super-conductor situation is that I think, in one of the Signal Chats mentioned is published, the two papers published almost consecutively by almost two groups of people. I think Jesper is the one who shared that part of it. Now that also indicates that people are rushing to publish this. 
+
+The good thing about the paper is that they have very detailed descriptions about how people are looking to replicate the experiment.  I know of more than 20 labs in China that have already started working on it, including the national lab, and some of the course are homegrown labs. Now, don't look down on the homegrown lab because they do have very good resources and people are ordering the raw material and they start replicating it. 
+
+So, we will be able to see the outcome that it is really true that there's a super-conductor not in weeks, not in months, but in days, because making that can be pretty fast.  In fact, some of them have made the material close to what it is already. But ultimately, most people have never, never looked at is that this is from the Korean grapevine, that this discovery has been using a lot of AI to help them really synthesize and figure out what material to use.  So this is not mentioned because I guess that the researchers probably do not want the AI to steal that limelight or whatever. 
+
+So this is something that we can see that AI has been penetrating quite deeply with what we already have, and something that we can't run away from it. 
+
+Now, Peter mentioned the guardrail.  But I just want to rewind that to look at it as a form of summary, as a form of net assessment thinking is that are we guarding against AI or are we guarding against humans who use AI?  So ultimately if we treat AI like a life-form, it will have a different development because it's different from us. All right?  If it is a human who wants to use the AI or misuse AI or abuse the AI. So ultimately that we should be thinking about what we human want to do with all these things. AI may have his own thinking and maybe he doesn't even care to give a damn about what we want to do. 
+
+So I think that is something that I think we have to constantly think about and cut against the people abusing AI - people who want to do something bad about it.  It's just a knife or a gun is denied. But how you use it is a key question.  But whenever something happens, there's always an effort to take. 
+
+For example, I think Peter mentioned the code injection to basically fool the AI. There are a few very good discussions about how to prevent code injections, I will share in the Signal Chat later and all these things are effort to now prevent the possible code injection to trick the AI into doing something like mean sorry prompt injections.  I think Fang Yi just highlighted to me it's not called injection but prompt injection, so these are the various things that people are doing. I think it's very important to help us progress. 
+
+I personally love AI but I do know that we have the tendency and have what they call tendency and liking to do something naughty. 
+
+Now with that, I will basically say that we had a very good discussion down here and I would like to generate a summary, and we will share the summary.
+
+Thanks and I'll hand the time back to Phil.
+
+Phil
+
+Thanks a lot Alex.
+
+Let me just close by saying our colleague Alvaro is flying at the moment, and he very specifically emailed me just before the call and said he misses us and will be back, but this coming week is his race series in gliding.  We all wish him well. 
+
+Thanks again everybody, great to see you and we look forward to many many more things that we all know will be happening in the next week discussing so have a great week everybody and thank you. Great call everyone.
+
+ Howard, safe travels.
+
+Thank you.
+
+
+
+
+Zoom chat notes:
+
+08:00:13 From Jerry Hultin to Everyone:
+	70 degrees f in Ohio
+
+08:13:08 From Roberto Alvarez to Everyone:
+	Wow! Quite a trip indeed.
+
+08:13:39 From jesper koll to Everyone:
+	From Japan, one consistent weakness is exports to China….no pick-up….in fact some micro data quite concerning: FANUC (the leading robot maker) reported a 40% drop in orders from China in April-Jun (data out Friday)
+
+08:14:21 From jesper koll to Everyone:
+	Maybe FANUC specific, but macro order data also weak from China
+
+08:56:48 From Roberto Alvarez to Everyone:
+	And — this is something coming out from Brazil that I forgot to mention @Phil & colleagues: https://www.ft.com/content/373079cb-63fe-45ad-a0cd-40ee8c4ca948
+Let’s see what reality says about such plan. From intent to impact, the country will have a long way to go. But I foresee new investment opportunities.
+
+08:57:16 From Louis Curran to Everyone:
+	I think its extremely significant that Mr Gao's significant observation had nothing to do with developments in China which are SIGNIFICANT, but that he chooses to highlight something we've been discussing on our chat this week. The relationship with Enerfy/Nuclear Fusion was not something that had been mentioned. As Jesper highlights and notably mentioned by Mr Gao, we await confirmation. Note Mr. Gao's observation that this can be as important as AI. This is an area we should have infinite appetite for
+
+08:58:36 From Louis Curran to Everyone:
+	Nkem….this is a hugely interesting and far reaching  subject. Its the battle ground of Global South vs the west. 
+	Any and all observations, research, media on this subject, appreciated in our Saturday group chat
+
+08:59:50 From Roberto Alvarez to Everyone:
+	Reacted to "I think its extremel..." with 🎯
+
+09:06:54 From Khor Zijian to Everyone:
+	Replying to "And — this is someth..."
+	thanks Roberto for sharing. the mention of regulated carbon market is interesting, would love to hear more about it
+
+09:10:46 From Roberto Alvarez to Everyone:
+	Replying to "And — this is someth..."
+	
+	We have a series of public-private roundtables being hosted around thew country to discuss the matter, as part of a government consultation process. The new regulation is being designed - according to some recent news (https://www.camara.leg.br/noticias/979585-governo-conclui-proposta-de-regulamentacao-do-mercado-de-carbono-e-espera-aprovacao-ate-a-cop-30/
+- Google translate can help), it seems the administration has that already drafted (I am not sure about it) and is exploring how to slice the proposal in different legislation proposals.
+
+09:14:40 From Khor Zijian to Everyone:
+	Replying to "And — this is someth..."
+	👍 thank you
+
+09:14:58 From John Alton to Everyone:
+	Replying to "And — this is someth..." 
+	Superconduction, not semiconductors, right?
+
+09:15:05 From Louis Curran to Everyone:
+	Reacted to "An ‘Oppenheimer Moment’ For The Progenitors Of AI - NOEMA.pdf" with ☘️
+
+09:16:42 From Roberto Alvarez to Everyone:
+	Replying to "Nkem….this is a huge..."
+	It circles back to a question that emerged in this call a few times: what is the value proposition to the Global South?
+
+09:16:54 From Roberto Alvarez to Everyone:
+	Replying to "And — this is someth..."
+	@Khor Zijian Sure!
+
+09:19:27 From Max Yamamoto to Everyone:
+	By the way, Oppenheimer is not in Japan. But same as Barbie.
+
+09:19:40 From Roberto Alvarez to Everyone:
+	Replying to "By the way, Oppenhei..."
+	Really?
+
+09:21:37 From Naoto Hamada to Everyone:
+	It’s in Australia
+
+09:26:07 From Jonathan Paris to Everyone:
+	Lots of lessons from Oppenheimer movie all over the world.
+
+09:26:42 From John Alton to Everyone:
+	What is Japanese concern about Wang Yi?
+
+09:27:50 From Roberto Alvarez to Everyone:
+	Some fun… AI? Guys, someone may be watching you using your wifi routers.
+
+09:31:15 From Jerry Hultin to Everyone:
+	I would add that the US political system is on a downward trend since the charges against Trump are not hurting his popularity.   The split in the USA continues to grow wider and deeper.
+
+09:31:38 From Roberto Alvarez to Everyone:
+	Reacted to "I would add that the..." with 👍
+
+09:31:48 From jesper koll to Everyone:
+	Reacted to "I would add that the..." with 👍
+
+09:33:30 From Roberto Alvarez to Everyone:
+	The AI people: https://time.com/6297403/india-ai-karya-startup/
