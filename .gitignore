@@ -133,3 +133,6 @@ dmypy.json
 input/
 output/
 temp/
+
+#dont need to pusht his
+playground.ipynb
