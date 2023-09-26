@@ -128,7 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#remove all data files
+
+#remove our input and output / all files storing data
 input/
 output/
 temp/
