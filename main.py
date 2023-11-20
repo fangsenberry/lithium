@@ -33,6 +33,7 @@ def main():
     #check if they want us to split speakers
     if mode == "1" or mode == "3":
         speaker_labels = input("Do you want to split speakers? (y/n): ")
+        speaker_labels = (speaker_labels == 'y')
 
     transcript = None
     summary = None
