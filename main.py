@@ -1,8 +1,17 @@
 import datetime
 import os
+import sys
+from pathlib import Path
 
 import aai_utils
 import intelligence
+
+# Path to the directory containing yggdrasil
+parent_dir = Path(__file__).resolve().parent
+sys.path.append(str(parent_dir))
+
+# Now you can import from yggdrasil
+from yggdrasil import midgard, ratatoskr
 
 def main():
     mode = input("(1: Transcribe, 2: Summarise, 3: Both): ")
@@ -46,10 +55,10 @@ def main():
             with open(path, "r", encoding="utf-8", errors="replace") as f:
                 data = f.read()
                 data = data.replace("\ufffd", " ")
-            summary = intelligence.summarise(data)
+            summary = midgard.summarise(data)
         case "3":
             transcript = aai_utils.transcribe(path, speaker_labels)
-            summary = intelligence.summarise(transcript)
+            summary = midgard.summarise(transcript)
 
     if transcript is not None:
         path = "output/" + filename + " Transcript " + curr_date + ".txt"
