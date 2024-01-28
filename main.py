@@ -44,20 +44,25 @@ def main():
         speaker_labels = input("Do you want to split speakers? (y/n): ")
         speaker_labels = (speaker_labels == 'y')
 
+    #rat instance
+    rat = ratatoskr.Ratatoskr()
+
+    is_chinese = input("Is the language Chinese? (y/n): ") == 'y'
+
     transcript = None
     summary = None
 
     #switch cases for all of them
     match mode:
         case "1":
-            transcript = aai_utils.transcribe(path, speaker_labels)
+            transcript = rat.speech_to_text(path, speaker_labels, is_chinese)
         case "2":
             with open(path, "r", encoding="utf-8", errors="replace") as f:
                 data = f.read()
                 data = data.replace("\ufffd", " ")
             summary = midgard.summarise(data)
         case "3":
-            transcript = aai_utils.transcribe(path, speaker_labels)
+            transcript = rat.speech_to_text(path, speaker_labels, is_chinese)
             summary = midgard.summarise(transcript)
 
     if transcript is not None:
