@@ -6,6 +6,8 @@ from pathlib import Path
 import aai_utils
 import intelligence
 
+import lithium
+
 # Path to the directory containing yggdrasil
 parent_dir = Path(__file__).resolve().parent
 sys.path.append(str(parent_dir))
@@ -46,16 +48,22 @@ def main():
 
     #rat instance
     rat = ratatoskr.Ratatoskr()
+    lit = lithium.Lithium()
 
     is_chinese = input("Is the language Chinese? (y/n): ") == 'y'
 
     transcript = None
     summary = None
+    cleaned_transcript = None
+    
+    to_clean = (input("Do you want to clean the transcript? (y/n): ") == "y")
 
     #switch cases for all of them
     match mode:
         case "1":
             transcript = rat.speech_to_text(path, speaker_labels, is_chinese)
+            if to_clean:
+                cleaned_transcript = lit.clean_transcript(transcript)
         case "2":
             with open(path, "r", encoding="utf-8", errors="replace") as f:
                 data = f.read()
@@ -64,6 +72,8 @@ def main():
         case "3":
             transcript = rat.speech_to_text(path, speaker_labels, is_chinese)
             summary = midgard.summarise(transcript)
+            if to_clean:
+                cleaned_transcript = lit.clean_transcript(transcript)
 
     if transcript is not None:
         path = "output/" + filename + " Transcript " + curr_date + ".txt"
@@ -74,6 +84,11 @@ def main():
         path = "output/" + filename + " Summary " + curr_date + ".txt"
         with open(path, "w") as f:
             f.write(summary)
+            
+    if cleaned_transcript is not None:
+        path = "output/" + filename + " Cleaned Transcript " + curr_date + ".txt"
+        with open(path, "w") as f:
+            f.write(cleaned_transcript)
 
     return
 
